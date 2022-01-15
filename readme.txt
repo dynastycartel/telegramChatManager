@@ -1,0 +1,1 @@
+I'm glad to introduce another small project! This time I've decided to create a simple chat manager for telegram. Primary aim is to learn to work with APIs. 
